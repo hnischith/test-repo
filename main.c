@@ -6,5 +6,6 @@ int main()
 	cin<<a<<b;
 	cout <<"a: "<<a<<", b:"<<b<<endl
 	cout<<"a + b = "<<add(a,b)<<endl;
+	cout<<"a * b = "<<multiply(a,b)<<endl;
 	return 0;
 }
