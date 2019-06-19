@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 //Author Name: Nischith Honnnavar
 //Email: nischith.96@gmail.com
 //Header section
